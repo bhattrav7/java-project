@@ -82,6 +82,4 @@ System.out.println("PRESS 2 FOR NO");
 sc.close();
 
     }
-
-
 }

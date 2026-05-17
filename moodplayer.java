@@ -89,15 +89,6 @@ public static void main(String[] args) throws IOException
 int top=(int)(Math.random()*matchingsongs.size());
 System.out.println("\nTOP PICK: "+matchingsongs.get(top)+" by "+matchingartists.get(top));
 sc.close();
-br.close();
-
-
-    
-
-
-
-
-
-    
+br.close();   
 }
 }
